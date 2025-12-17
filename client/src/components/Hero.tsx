@@ -12,7 +12,7 @@ export default function Hero() {
   return (
     <section 
       id="home" 
-      className="rezivarium-hero relative w-full"
+      className="rezivarium-hero relative w-full pt-52 sm:pt-40 md:pt-32"
       style={{
         backgroundImage: 'url(/hero-bg.jpg)',
         backgroundSize: 'cover',
