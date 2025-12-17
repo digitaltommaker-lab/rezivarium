@@ -25,7 +25,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-gradient-to-b from-black/25 via-black/45 to-black/70 z-10"></div>
 
       {/* Content */}
-      <div className="relative z-20 flex items-center justify-center min-h-screen pt-24 sm:pt-28 md:pt-32">
+      <div className="relative z-20 flex items-center justify-center min-h-screen pt-40 sm:pt-32 md:pt-32">
         <div className="container px-6 py-20 text-center">
           <div className="max-w-5xl mx-auto animate-fade-in">
             {/* Subtitle */}
